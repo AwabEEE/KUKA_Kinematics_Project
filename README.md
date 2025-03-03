@@ -36,4 +36,7 @@ This repository provides:
 ### **2️⃣ Clone the Repository**  
 ```sh
 git clone https://github.com/AwabEEE/KUKA_Kinematics_Project.git
+
 cd KUKA_Kinematics_Project
+![Robot Simulation](robot_simulation.png)
+
