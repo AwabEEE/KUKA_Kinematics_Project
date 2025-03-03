@@ -1,3 +1,5 @@
+![Robot Simulation](robot_simulation.png)
+
 # 🤖 KUKA KR6 R900 Kinematics Analysis  
 
 🚀 **MATLAB-based kinematics simulation for the KUKA KR6 R900 industrial robot.**  
@@ -36,7 +38,6 @@ This repository provides:
 ### **2️⃣ Clone the Repository**  
 ```sh
 git clone https://github.com/AwabEEE/KUKA_Kinematics_Project.git
-
 cd KUKA_Kinematics_Project
-![Robot Simulation](robot_simulation.png)
+
 
